@@ -1,0 +1,2 @@
+# Desktop-Battery-Notifier
+ As a laptop user, you must take caution about your battery percentage as the battery is also the most important component, that’s why today we will see Desktop Battery Notifier using Python. So, what if your laptop reminds you about the battery percentage using notification. Yes, you read it correctly using a desktop notifier. we are going to see the Psutil library in Python using which we can check battery percentage and send the battery percentage desktop notification using another module Plyer.
